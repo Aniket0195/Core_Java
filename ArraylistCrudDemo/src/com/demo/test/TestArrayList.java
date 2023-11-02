@@ -1,0 +1,9 @@
+package com.demo.test;
+import java.util.Scanner;
+public class TestArrayList {
+public static void main(String[] args) {
+	
+	Scanner sc = new Scanner (System.in);
+	
+}
+}
